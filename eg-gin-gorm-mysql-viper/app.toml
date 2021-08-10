@@ -1,0 +1,12 @@
+# port
+[dev]
+port = 9889
+# MySQL
+[dev.mysql]
+username = "root"
+password = "game"
+url = "192.168.50.183:3306"
+database  = "test"
+maxOpenconns = 10
+maxIdleConns = 2
+connMaxLifetime = 6

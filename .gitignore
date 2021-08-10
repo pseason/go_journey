@@ -1,0 +1,7 @@
+*.exe
+*.log
+.idea
+*vscode
+tmp
+
+*.code-workspace
